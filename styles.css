@@ -24,8 +24,12 @@ body {
     flex: 1;
   }
   menu {
-    height: 100px;
+    height: 50px;
     border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none;
   }
   button {
     font-size: 18px;
