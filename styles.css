@@ -30,6 +30,7 @@ body {
     align-items: center;
     justify-content: space-around;
     list-style-type: none;
+    background: azure;
   }
   button {
     font-size: 18px;
@@ -41,5 +42,6 @@ body {
     white-space: normal; /* Allows text wrapping */
     align-items: center;
     justify-content: center; /* Centers text */
+    background: darkmagenta;
 }
 
