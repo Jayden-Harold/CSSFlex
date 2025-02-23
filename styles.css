@@ -34,7 +34,6 @@ body {
   button {
     font-size: 18px;
     line-height: 1.5;
-    width: 15%; /* Ensures button is not too wide */
     white-space: normal; /* Allows text to wrap */
     word-wrap: break-word; /* Ensures long words break */
     overflow-wrap: break-word; /* Alternative for newer browsers */
