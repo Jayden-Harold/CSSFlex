@@ -38,4 +38,5 @@ body {
     word-wrap: break-word; /* Ensures long words break */
     overflow-wrap: break-word; /* Alternative for newer browsers */
     padding: 10px; /* Adds spacing */
+    width: 20% ;
 }
